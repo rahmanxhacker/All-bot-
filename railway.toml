@@ -1,0 +1,2 @@
+[deploy]
+startCommand = "python 'OTP bot sadhin.py'"
